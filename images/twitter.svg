@@ -3,13 +3,9 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="28 -4 256 209" style="enable-background:new 28 -4 256 209;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:url(#SVGID_1_);}
+	.st0{fill:#03969D;}
 </style>
 <g>
-	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="28" y1="100.8448" x2="284" y2="100.8448">
-		<stop  offset="0" style="stop-color:#1E1A2F"/>
-		<stop  offset="1" style="stop-color:#150E1C"/>
-	</linearGradient>
 	<path class="st0" d="M284,21.5c-9.4,4.2-19.5,7-30.2,8.3c10.8-6.5,19.2-16.8,23.1-29.1c-10.1,6-21.4,10.4-33.4,12.7
 		C234,3.2,220.3-3.2,205.2-3.2c-29,0-52.5,23.5-52.5,52.5c0,4.1,0.5,8.1,1.4,12C110.4,59.1,71.7,38.2,45.8,6.4
 		c-4.5,7.8-7.1,16.8-7.1,26.4c0,18.2,9.3,34.3,23.4,43.7c-8.6-0.3-16.7-2.6-23.8-6.6c0,0.2,0,0.4,0,0.7c0,25.4,18.1,46.7,42.1,51.5
